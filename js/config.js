@@ -21,7 +21,9 @@ define({
 
 	// Enter URLs of any external stylesheets you wish to include with this demo.
 	// These will not be parsed as part of the documentation and are simply loaded into the page header.
-	external_stylesheets: []
+	external_stylesheets: [
+		'css/theme.css'
+	]
 
 	//disqus_shortname: 'kaleistyleguide'
 });

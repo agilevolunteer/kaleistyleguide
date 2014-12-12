@@ -18,9 +18,9 @@ This project aims at making sure your style sheets are fully documented whilst b
 
 ## Getting started
 
-1. Download the repository (`git clone git://github.com/kaleistyleguide/kaleistyleguide.git`)
-2. Serve it on a HTTP server and it should work!
-3. Edit `js/config.js` to point at your own `styles.css`
+1. Download the repository (`git clone git://github.com/agilevolunteer/kaleistyleguide.git`)
+2. Run `npm install` to install all the needed stuff
+3. Run `grunt` to start a local webserver, compile less files and watch changes
 
 
 ## Author
@@ -61,6 +61,7 @@ Kalei is heavily influenced by the following projects and blog posts.
 * [backbone](http://backbonejs.org/)
 * [underscore](http://underscorejs.org/)
 * [jquery](http://jquery.com)
+* [grunt] (http://gruntjs.com)
 
 ## License
 
